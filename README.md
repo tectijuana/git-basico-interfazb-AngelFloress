@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Hola buenas tardes soy Jose Angel Flores Gomez en este readme realizare mis actividades de c++
 
 ## 🤓 Course overview and learning outcomes 
 
