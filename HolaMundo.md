@@ -1,4 +1,4 @@
- Title: Hola mundo en ARM					Filename: holamundo.s
+ Title: Hola mundo en ARM					Filename: HolaMundo.md
 # Author:Jose Angel Flores Gomez				Date: 08/04/2022
 # Description: Mostrar HOLA MUNDO
 # Input: -
