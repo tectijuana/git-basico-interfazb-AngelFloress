@@ -4,7 +4,7 @@
 # Input: -
 # Output: HOLA MUNDO
 
-# .global _start
+ .global _start
 ############################# Code segment ####################################
 _start:
   MOV R7, #4 ###;- cargar el valor de datos que esta en esta posicion en la secuencia de instrucciones
