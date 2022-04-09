@@ -22,7 +22,7 @@ string:
  ////////////
  .data
 
-/* Data segment: define our message string and calculate its length. */
+/* Data segment: define our message string and calculate its length */
 msg:
     .ascii      "Hello, ARM!\n"
 len = . - msg
